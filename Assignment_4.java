@@ -147,7 +147,7 @@ public class Assignment_4
         return square;
     }
     
-    // -----------------Question-6-------------------//
+    // -----------------Question-7-------------------//
     public static int maxNum(int m, int n, int ops[][]) {
         int matrix[][] = new int[m][n];
         int count = 0;
