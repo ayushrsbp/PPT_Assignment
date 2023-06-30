@@ -161,7 +161,9 @@ public class Assignment_5
         
         return nums[si];
     }
-    
+
+
+    // --------------Question-8--------------//
     public static int[] originalArray(int[] changed) {
         if (changed.length % 2 != 0) {
             return new int[0];
